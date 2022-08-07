@@ -8,9 +8,14 @@ python3 main.py
 ```
 
 AR Tag 
-# ![1](https://github.com/advaitp/ARTag-Detection-/blob/main/artag.png)
+# ![1](https://github.com/advaitp/ARTag-Detection-/blob/main/artagnew.png)
+
+Extracted AR Tag 
+# ![2](https://github.com/advaitp/ARTag-Detection-/blob/main/artag.png)
 
 The output of the program is the video of superimposed testudo image on ar tag : ARTag.mp4. 
 
 SuperImposed Testudo Image 
-# ![2](https://github.com/advaitp/ARTag-Detection-/blob/main/superimposed.png)
+# ![4](https://github.com/advaitp/ARTag-Detection-/blob/main/testudo.png)
+
+# ![4](https://github.com/advaitp/ARTag-Detection-/blob/main/superimposed.png)
